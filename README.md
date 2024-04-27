@@ -1,10 +1,12 @@
 <h1>Accurately Extract Text from PDFs with Gradient's PDF Extraction API</h1>
 <p>This repository shows Gradient's new API for extracting data from PDFs. This API can address the challenges of using PDFs, such as extracting text, identifying formatting, and recognizing the structure of tables.</p>
-<h2>Click to open the Notebook directly in Google Colab</h2>
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-rag-collection-api.ipynb)
+<h3>Click to open the Notebook directly in Google Colab</h3>
+
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-pdf-api-example.ipynb)
  -->
 
-<p><a href="https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-rag-collection-api.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a></p>
+<p><a href="https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-pdf-api-example.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a></p>
+
 <h2>To view the video</h2>
 <table>
    <tr>
@@ -15,6 +17,26 @@
 <p>or click on the image below</p>
 <p><a href="http://www.youtube.com/watch?v=OrNOktTbXQs"><img alt="rag_v1
 " src="http://img.youtube.com/vi/OrNOktTbXQs/0.jpg" /></a></p>
+
+<h1>Build a RAG app in Python with Gradient in minutes</h1>
+<h3>Click to open the Notebook directly in Google Colab</h3>
+
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-rag-collection-api.ipynb)
+ -->
+
+<p><a href="https://colab.research.google.com/github/bhattbhavesh91/gradient-rag/blob/main/gradient-rag-collection-api.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a></p>
+<h2>To view the video</h2>
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=RPTv9QHCGlg" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/RPTv9QHCGlg?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+<p>or click on the image below</p>
+<p><a href="http://www.youtube.com/watch?v=RPTv9QHCGlg"><img alt="rag_v2
+" src="http://img.youtube.com/vi/RPTv9QHCGlg/0.jpg" /></a></p>
+
+
 <p><a href="https://github.com/sponsors/bhattbhavesh91" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/Sponsor me on GitHub-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 <a href="https://t.me/bhattbhavesh91" target="_blank"><img height="40" alt="Telegram Channel Link" src = "https://img.shields.io/badge/Join my Telegram channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></p>
 <p><strong>If you like my work, you can support me by buying me a coffee by clicking the link below</strong></p>
